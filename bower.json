@@ -1,0 +1,29 @@
+{
+  "name": "express_node_training",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Obinna Ngini"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "overrides":{
+    "bootstrap" : {
+      "main": [
+        "less/bootstrap.less",
+        "dist/css/bootstrap.min.css",
+        "dist/js/bootstrap.js"
+      ]
+    }
+  }
+}
