@@ -8,6 +8,6 @@ which was created by Jonathan Mills
 * Movies were used as objects instead of books
     * [Omdb API](http://www.omdbapi.com/) was used to retrieve movie information.
 
-### Future Enhancements
+### TODO
 * Add Facebook and Google login
 * Change movie list retrieval to pull 100 most recent movies from API.
