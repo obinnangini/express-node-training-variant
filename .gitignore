@@ -48,3 +48,6 @@ dist
 
 # Maven target dir.
 target
+
+# Bower directory in this project
+public/lib
